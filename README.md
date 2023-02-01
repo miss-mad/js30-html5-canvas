@@ -13,7 +13,7 @@ Created with only Vanilla JavaScript.
 
 ## Usage
 
-![HTML5 Canvas screenshot 1](./)
+![HTML5 Canvas screenshot 1](./assets/images/html5_canvas_screenshot.png)
 
 ## Credits
 
