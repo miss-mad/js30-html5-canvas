@@ -9,7 +9,7 @@
 
 ## Description
 
-Created with only Vanilla JavaScript.
+A fun press-and-hold art creator established with HTML's `canvas` element. Created with only Vanilla JavaScript.
 
 ## Usage
 
